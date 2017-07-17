@@ -1,0 +1,55 @@
+# A Tale of Two Cities
+
+I was born ten days late, at the tail end of a chilly 1997 March in St. Louis, Missouri. 
+As much as I wish I could claim the urban, progressive, well-known Gateway City as part of my identity, 
+its main significance remains the fact that it is printed on my birth certificate (1). 
+During the year following my birth my parents uprooted my older brother and me because our Louisiana father accepted 
+a job in a city the farthest south that my Midwestern mother would begrudgingly agree to: Greensboro, North Carolina. 
+It was there that I attended Montessori school for a few years (12, actually), made a few friends (also 12, on a good day), 
+swam for the neighborhood team during endlessly humid summers, went to high school, made more friends, learned to drive, 
+got my first crummy job, cursed my first crummy paycheck, graduated high school, and ultimately grew up.
+
+
+Greensboro is undoubtedly my hometown, but I vehemently denied this fact during the entirety of my living there. 
+I believed that I came from and was destined for better things than loosely historic Guilford Court House, 
+“the third-largest city in North Carolina,” and the headquarters of the Atlantic Coast Conference. 
+I pitied my friends that were born-and-raised Greensborians, knowing that some of them would follow in their parents’ and 
+grandparents’ footsteps by never making it out and settling for Gate City (2). 
+At the end of high school I wanted to leave North Carolina altogether, 
+especially given the disastrous HB2 passage and the ensuing nationwide state-shaming. 
+But attending first-pick city colleges proved too expensive, 
+so I “settled for” the nationally-acclaimed public university only an hour away from my front door. 
+Unenthused about being stuck in my adopted home-state for another four years, 
+I deferred my enrollment and took a gap year to travel and work.
+
+
+My first, and ultimately only, destination: St. Louis. 
+I moved in with godparents I had not seen in ten years, 
+snagged an internship with a sustainable non-profit and a job at a local pizza place, 
+and anxiously began the re-discovery of my true home city and, by extension, myself. 
+It was a massive disappointment. 
+Having left at the ripe age of one, I could not recognize landmarks I thought I would know, 
+like the botanical garden that my mother took us to every weekend, and our old house. 
+I was a tourist in my own hometown. 
+Dejected, I returned to Greensboro just as the gusty Missouri winter became intolerable to my Southern skin, 
+and worked there as a full-time waitress for the rest of my year off.
+
+
+It took me a full semester in Chapel Hill and a lot of self-reflection to realize the error in my thinking. 
+In lectures and conversations I learned more about our state’s history and potential, 
+and became eager to stay and work in NC to help alleviate its status as the laughingstock of the Union. 
+Other students that I met during my first few freshman months came from every corner of the state, 
+which led me to foster a sense of pride for Greensboro specifically. 
+Now I proudly tell people that I hail from Gate City, 
+and my obsession with the seemingly superior city of St. Louis has become a distant, embarrassing memory.
+
+
+### Notes
+
+
+(1) St. Louis earned this nickname, of course, for its immediately recognizable, 630-foot steel Arch along the Mississippi River, “the gateway to the West.”
+
+
+(2) Greensboro earned this nickname for being the transportation hub of the Piedmont-Triad.
+
+
