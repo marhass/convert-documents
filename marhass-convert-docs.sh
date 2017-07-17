@@ -5,7 +5,7 @@ echo "What is the name of your file? No extension or periods, please."
 # Read file name from input
 read FILENAME
 # Ask user what file type is
-echo "What is the extension: md, odt, pdf, docx, or html? No periods, please."
+echo "What is the extension? No periods, please."
 # Read file extension from output
 read EXT
 # Convert file to HTML
@@ -20,7 +20,5 @@ pandoc -o $FILENAME.txt $FILENAME.$EXT
 pandoc $FILENAME.txt --latex-engine=pdflatex -o $FILENAME.pdf
 # Convert file to MD
 pandoc -o $FILENAME.md $FILENAME.$EXT
-# Rename and delete the original file, since it is now a duplicate
-
 # Tell user the process is complete
 echo "Thank you. Your files have been created."
