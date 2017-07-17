@@ -18,5 +18,9 @@ pandoc -o $FILENAME.odt $FILENAME.$EXT
 pandoc -o $FILENAME.txt $FILENAME.$EXT
 # Convert file to PDF
 pandoc $FILENAME.txt --latex-engine=pdflatex -o $FILENAME.pdf
+# Convert file to MD
+pandoc -o $FILENAME.md $FILENAME.$EXT
+# Rename and delete the original file, since it is now a duplicate
+
 # Tell user the process is complete
 echo "Thank you. Your files have been created."
